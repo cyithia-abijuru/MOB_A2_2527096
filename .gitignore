@@ -1,0 +1,19 @@
+node_modules/
+.expo/
+dist/
+web-build/
+build/
+*.log
+.env
+.DS_Store
+
+# Ignore temporary Windows files
+AppData/
+*.tmp
+
+# Local PDF verification previews
+tmp/
+
+# Android releases are attached separately; exclude from future EAS source uploads
+*.apk
+*.zip

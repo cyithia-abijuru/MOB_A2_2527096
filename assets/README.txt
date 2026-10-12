@@ -1,0 +1,1 @@
+profile.jpeg is the student-supplied default portrait, bundled for offline access. Gallery/camera can replace it; Remove photo restores the initials avatar; resetting the saved profile restores this default portrait.

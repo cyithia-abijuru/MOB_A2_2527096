@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ABPortfolio",
+    "slug": "abportfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "rw.ac.ines.ug2527096.abportfolio",
+      "versionCode": 2,
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_MEDIA_IMAGES"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow ABPortfolio to select a profile image from your photo library.",
+          "cameraPermission": "Allow ABPortfolio to take a profile photo.",
+          "microphonePermission": false
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7df8d1d7-61fe-4296-a126-6a2ec8548dbd"
+      }
+    }
+  }
+}
