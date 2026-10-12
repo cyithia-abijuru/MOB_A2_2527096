@@ -1,0 +1,8 @@
+* text=auto
+*.pdf binary
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.apk binary
+*.zip binary
+*.mp4 binary
